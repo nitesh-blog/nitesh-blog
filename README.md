@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nitesh Ghubde</h1>
+<h1 align="center">Hi 👋, I'm Nitesh </h1>
 <h3 align="center">Aspiring a full stack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh-blog&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh-blog" /> </p>
